@@ -307,7 +307,7 @@ textarea {
     border-radius: 30px;
     padding: 14px 25px 13px;
     font-size: 15px;
-    font-family: 'aileronregular';
+    font-family: 'Roboto', sans-serif;
 }
 
 .th-btn-small {
@@ -1640,7 +1640,7 @@ main.main {
     font-family: 'Roboto', sans-serif;
 }
 .offer-content h3 span {
-    font-family: 'aileronregular';
+    font-family: 'Roboto', sans-serif;
 }
 .offer-content p:last-of-type {
     margin-bottom: 35px;
