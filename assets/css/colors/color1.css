@@ -87,21 +87,11 @@
 
 
 .overlay-one {
-    background: #66798f;
-    background: -webkit-linear-gradient(0deg, #66798f 10%, #4c5a6a 90%);
-    background:    -moz-linear-gradient(0deg, #66798f 10%, #4c5a6a 90%);
-    background:     -ms-linear-gradient(0deg, #66798f 10%, #4c5a6a 90%);
-    background:      -o-linear-gradient(0deg, #66798f 10%, #4c5a6a 90%);
-    background:         linear-gradient(0deg, #66798f 10%, #4c5a6a 90%);
+    background: rgba(0, 0, 0, .68);
 }
 
 .overlay-two {
-    background: #66798f;
-    background: -webkit-linear-gradient(0deg, #4c5a6a 15%, #66798f 85%);
-    background:    -moz-linear-gradient(0deg, #4c5a6a 15%, #66798f 85%);
-    background:     -ms-linear-gradient(0deg, #4c5a6a 15%, #66798f 85%);
-    background:      -o-linear-gradient(0deg, #4c5a6a 15%, #66798f 85%);
-    background:         linear-gradient(0deg, #4c5a6a 15%, #66798f 85%);
+    background: rgba(0, 0, 0, .68);
 }
 
 .overlay-three {
