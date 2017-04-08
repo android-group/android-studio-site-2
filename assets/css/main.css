@@ -1744,6 +1744,7 @@ main.main {
     filter: gray;
     -webkit-transition: all .4s ease;
             transition: all .4s ease;
+    border-radius: 50%;
 }
 
 .single-team .team-member-info {
